@@ -1,5 +1,6 @@
 # L-System-Tree
 Beautiful realisation of turtle drawn tree, in 15 generations. No libs to download needed.
+This project uses the standart python libs: turtle, random and time.
 
 # NOTICE!
 ## On Linux
